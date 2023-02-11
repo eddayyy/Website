@@ -1,2 +1,2 @@
-# website 
-# Solo project that began on 02/10/2023
+# Portfolio Website 
+This is the development of my personal website to showcase my portfolio
