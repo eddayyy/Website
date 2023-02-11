@@ -1,1 +1,2 @@
-# A Website project I'm developing to host my portfolio 
+# Portfolio Website
+# Development of a website to host my portfolio
